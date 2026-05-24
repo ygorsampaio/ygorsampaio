@@ -19,7 +19,7 @@ Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistem
 
 * **Full-Stack Development:** Construção de aplicações web robustas e escaláveis utilizando o ecossistema JavaScript/TypeScript, com foco em **React**, **Next.js** e **Node.js**.
 * **Engenharia de Dados & BI:** Modelagem de bancos de dados (PostgreSQL, MongoDB), criação de consultas avançadas em SQL e estruturação de pipelines de dados (arquitetura medalhão) utilizando **Python** e **Azure Databricks**.
-* **Automação e Ecossistema Microsoft:** Desenvolvimento de soluções ágeis integrando **Power Platform** (Power Apps, Power Automate, Dataverse) e lógica em **Power Fx** para otimização de processos e ingestão de dados em arquiteturas modernas.
+* **Automação e Ecossistema Microsoft:** Desenvolvimento de soluções ágeis integrando **Power Platform** (Power Apps, Power Automate, Power BI, Dataverse) e lógica em **Power Fx** para otimização de processos e ingestão de dados em arquiteturas modernas.
 
 ---
 
@@ -45,24 +45,34 @@ Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistem
 
 * **Projeto Valora:** Sistema de gestão de Atividades Complementares para o Senac PE. Atuei no Front-end com React, JavaScript e Tailwind CSS, implementando fluxos de autenticação e telas de CRUD.
 * **KPMG SkillStore:** Plataforma de cursos onde dados inseridos via Power Apps eram armazenados no Dataverse, integrados via Power Automate até o Azure Databricks (pipeline medalhão via SQL) e consumidos no Power BI.
-* **Projeto Brota:** Modelagem de bancos de dados relacionais em PostgreSQL com consultas SQL avançadas e dashboards no Excel para monitoramento de KPIs.
+
+---
 
 ---
 
 ### 📊 Estatísticas em Tempo Real
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygorsampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsampaio&layout=compact&theme=dracula&count_private=true&langs_count=6" height="150em" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ygorsampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" alt="Estatísticas do GitHub" />
+  
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ygorsampaio&layout=compact&theme=dracula&count_private=true&langs_count=6" height="150em" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ygorsampaio&theme=dracula" alt="Streak do GitHub" />
+  <img src="https://ghchart.rshah.org/2b2b42/ygorsampaio" alt="Gráfico de Contribuições do Ygor" />
 </p>
 
 ---
 
 ### 📜 Certificações
 * 🐍 Python & 🟢 Node.js — *Rocketseat*
+* 🤖 Engenharia de Prompt — *Rocketseat*
+* 🛡️ Engenharia de QA — *CESAR School*
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ygorsampaio&theme=dracula" alt="Streak do GitHub" />
+</p>
+
+
 * 🤖 Engenharia de Prompt — *Rocketseat*
 * 🛡️ Engenharia de QA — *CESAR School*
