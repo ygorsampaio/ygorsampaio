@@ -8,6 +8,7 @@ Atuo como **Desenvolvedor Full-Stack Freelancer**, focado na criação de sistem
 
 | Canal | Link / Informação |
 | :--- | :--- |
+| 📄 **Currículo Online** | [curriculo-ygor-sampaio.vercel.app](https://curriculo-ygor-sampaio.vercel.app) |
 | 📧 **E-mail** | `ygorsampaio.edu@gmail.com` |
 | 📱 **WhatsApp** | `(81) 99715-3027` |
 | 💼 **LinkedIn** | [linkedin.com/in/ygorsampaio-dev](https://linkedin.com/in/ygorsampaio-dev) |
