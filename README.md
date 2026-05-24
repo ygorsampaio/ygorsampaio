@@ -1,6 +1,6 @@
 # Olá, eu sou o Ygor Sampaio! 👋
 
-Sou **Desenvolvedor Full-Stack** focado em construir aplicações web modernas, escaláveis e eficientes. Combinando minha formação técnica em **Análise e Desenvolvimento de Sistemas** com a visão estratégica da **Administração**, atuo na intersecção entre tecnologia, engenharia de dados e inteligência de negócios — transformando problemas complexos em interfaces funcionais e processos automatizados que otimizam a tomada de decisão.
+Atuo como **Desenvolvedor Full-Stack Freelancer**, focado na criação de sistemas web modernos, escaláveis e eficientes de ponta a ponta. Combinando minha experiência técnica em **Análise e Desenvolvimento de Sistemas** com a visão estratégica da **Administração**, entrego soluções que unem código robusto, engenharia de dados e inteligência de negócios — transformando problemas complexos em interfaces funcionais e processos automatizados.
 
 ---
 
@@ -53,16 +53,7 @@ Sou **Desenvolvedor Full-Stack** focado em construir aplicações web modernas, 
 * **Análise e Desenvolvimento de Sistemas** 🏛️ *SENAC | Tecnólogo (Programa Embarque Digital)* • 2025 — 07/2027
 * **Administração de Empresas** 🏛️ *UFRPE | Bacharelado* • 2025 — 12/2029
 * **Técnico em Multimídia** 🏛️ *ETE Ginásio Pernambucano* • 02/2022 — 12/2024
-
----
-
-### 📜 Certificações
-
-* 🐍 **Python** — *Rocketseat*
-* 🟢 **Node.js** — *Rocketseat*
-* 🤖 **Engenharia de Prompt** — *Rocketseat*
-* 🛡️ **Engenharia de QA** — *CESAR School*
-
+  
 ---
 
 #### 📅 Histórico de Contribuições (Commits)
