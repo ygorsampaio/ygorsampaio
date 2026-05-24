@@ -28,14 +28,14 @@ Atuo como **Desenvolvedor Full-Stack Freelancer**, focado na criação de sistem
 #### Front-End & Back-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,tailwind" alt="Full Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind" alt="Full Stack" />
   </a>
 </p>
 
 #### Dados, Cloud & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,supabase,azure,powerbi,git,github,figma" alt="Data & Tools" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,supabase,azure,git,github,figma" alt="Data & Tools" />
   </a>
 </p>
 
