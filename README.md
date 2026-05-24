@@ -1,12 +1,10 @@
 # Olá, eu sou o Ygor Sampaio! 👋
 
-Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistemas (SENAC / Embarque Digital) e Administração de Empresas (UFRPE). Meu foco é construir a ponte entre a tecnologia, a engenharia de dados e as regras de negócio, criando interfaces funcionais e automações inteligentes.
+Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistemas (SENAC / Embarque Digital) e Administração de Empresas (UFRPE). Trabalho na intersecção entre o desenvolvimento de software tradicional, engenharia de dados e soluções corporativas eficientes.
 
 ---
 
 ### 🌐 Contato e Conexões
-
-Seja para projetos freelancers, oportunidades profissionais ou troca de conhecimento, sinta-se à vontade para entrar em contato:
 
 | Canal | Link / Informação |
 | :--- | :--- |
@@ -17,36 +15,27 @@ Seja para projetos freelancers, oportunidades profissionais ou troca de conhecim
 
 ---
 
-### ⚡ Power Platform, Power Fx & Automação
+### 💻 Stack Tecnológico & Atuação
 
-Além do ecossistema tradicional de desenvolvimento, possuo forte atuação em **Low-Code Avançado** e **Engenharia de Dados**. Desenvolvo soluções completas utilizando:
-* **Power Apps & Power Fx:** Criação de aplicativos corporativos robustos orientados a dados, aplicando lógica declarativa forte (Power Fx) para manipular e validar coleções complexas no **Dataverse**.
-* **Power Automate:** Construção de fluxos de integração automatizados e ETLs eficientes que conectam aplicações de ponta a ponta.
-* **Modern Data Stack:** Integração desses ecossistemas com ferramentas robustas como **Azure Databricks** (arquitetura medalhão via SQL/Python) e **Power BI** para geração de valor e tomada de decisão estratégica.
+* **Full-Stack Development:** Construção de aplicações web robustas e escaláveis utilizando o ecossistema JavaScript/TypeScript, com foco em **React**, **Next.js** e **Node.js**.
+* **Engenharia de Dados & BI:** Modelagem de bancos de dados (PostgreSQL, MongoDB), criação de consultas avançadas em SQL e estruturação de pipelines de dados (arquitetura medalhão) utilizando **Python** e **Azure Databricks**.
+* **Automação e Ecossistema Microsoft:** Desenvolvimento de soluções ágeis integrando **Power Platform** (Power Apps, Power Automate, Dataverse) e lógica em **Power Fx** para otimização de processos e ingestão de dados em arquiteturas modernas.
 
 ---
 
-### 💻 Stack Tecnológico
+### 🛠️ Competências
 
-#### Desenvolvimento Full-Stack
+#### Front-End & Back-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,tailwind" alt="Full Stack Stack" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,tailwind" alt="Full Stack" />
   </a>
 </p>
 
-#### Dados & Infraestrutura
+#### Dados, Cloud & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,supabase,azure" alt="Data Stack" />
-  </a>
-</p>
-<p align="left"><em>Azure Databricks • SQL Avançado • NoSQL • Pandas • NumPy</em></p>
-
-#### BI, Automação e Design
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode,figma" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,supabase,azure,powerbi,git,github,figma" alt="Data & Tools" />
   </a>
 </p>
 
@@ -54,15 +43,13 @@ Além do ecossistema tradicional de desenvolvimento, possuo forte atuação em *
 
 ### 🚀 Projetos em Destaque
 
-* **KPMG SkillStore:** Plataforma de cursos onde dados inseridos via Power Apps eram armazenados no Dataverse, automatizados via Power Automate até o Azure Databricks (pipeline medalhão via SQL) e consumidos no Power BI.
 * **Projeto Valora:** Sistema de gestão de Atividades Complementares para o Senac PE. Atuei no Front-end com React, JavaScript e Tailwind CSS, implementando fluxos de autenticação e telas de CRUD.
+* **KPMG SkillStore:** Plataforma de cursos onde dados inseridos via Power Apps eram armazenados no Dataverse, integrados via Power Automate até o Azure Databricks (pipeline medalhão via SQL) e consumidos no Power BI.
 * **Projeto Brota:** Modelagem de bancos de dados relacionais em PostgreSQL com consultas SQL avançadas e dashboards no Excel para monitoramento de KPIs.
 
 ---
 
 ### 📊 Estatísticas em Tempo Real
-
-*Os gráficos abaixo são atualizados dinamicamente pelo GitHub e incluem métricas de projetos públicos e privados.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ygorsampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" alt="Estatísticas do GitHub" />
