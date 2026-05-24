@@ -49,30 +49,20 @@ Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistem
 ---
 
 ---
+---
 
 ### 📊 Estatísticas em Tempo Real
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ygorsampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" alt="Estatísticas do GitHub" />
-  
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ygorsampaio&layout=compact&theme=dracula&count_private=true&langs_count=6" height="150em" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ygorsampaio&theme=dracula&hide_border=true" alt="Streak do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2b2b42/ygorsampaio" alt="Gráfico de Contribuições do Ygor" />
+  <img src="https://ghchart.rshah.org/2b2b42/ygorsampaio" alt="Gráfico de Contribuições do Ygor" width="100%" />
 </p>
-
 ---
 
 ### 📜 Certificações
 * 🐍 Python & 🟢 Node.js — *Rocketseat*
-* 🤖 Engenharia de Prompt — *Rocketseat*
-* 🛡️ Engenharia de QA — *CESAR School*
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ygorsampaio&theme=dracula" alt="Streak do GitHub" />
-</p>
-
-
 * 🤖 Engenharia de Prompt — *Rocketseat*
 * 🛡️ Engenharia de QA — *CESAR School*
