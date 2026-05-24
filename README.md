@@ -1,6 +1,6 @@
 # Olá, eu sou o Ygor Sampaio! 👋
 
-Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistemas (SENAC / Embarque Digital) e Administração de Empresas (UFRPE). Atuo na construção de aplicações web funcionais e pipelines de dados estruturados para otimização de processos e tomada de decisão.
+Sou **Desenvolvedor Full-Stack** focado em construir aplicações web modernas, escaláveis e eficientes. Combinando minha formação técnica em **Análise e Desenvolvimento de Sistemas** com a visão estratégica da **Administração**, atuo na intersecção entre tecnologia, engenharia de dados e inteligência de negócios — transformando problemas complexos em interfaces funcionais e processos automatizados que otimizam a tomada de decisão.
 
 ---
 
@@ -48,15 +48,24 @@ Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistem
 
 ---
 
+### 🎓 Formação Acadêmica
+
+* **Análise e Desenvolvimento de Sistemas** 🏛️ *SENAC | Tecnólogo (Programa Embarque Digital)* • 2025 — 07/2027
+* **Administração de Empresas** 🏛️ *UFRPE | Bacharelado* • 2025 — 12/2029
+* **Técnico em Multimídia** 🏛️ *ETE Ginásio Pernambucano* • 02/2022 — 12/2024
+
+---
+
+### 📜 Certificações
+
+* 🐍 **Python** — *Rocketseat*
+* 🟢 **Node.js** — *Rocketseat*
+* 🤖 **Engenharia de Prompt** — *Rocketseat*
+* 🛡️ **Engenharia de QA** — *CESAR School*
+
+---
+
 #### 📅 Histórico de Contribuições (Commits)
 <p align="center">
   <img src="https://ghchart.rshah.org/2b2b42/ygorsampaio" alt="Gráfico de Contribuições do Ygor" width="100%" />
 </p>
-
----
-
-### 📜 Certificações & Formação
-* 🎓 **Graduações:** ADS (SENAC, até 2027) | Administração (UFRPE, até 2029)
-* 🐍 **Python & Node.js** — *Rocketseat*
-* 🤖 **Engenharia de Prompt** — *Rocketseat*
-* 🛡️ **Engenharia de QA** — *CESAR School*
