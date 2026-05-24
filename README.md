@@ -1,6 +1,6 @@
 # Olá, eu sou o Ygor Sampaio! 👋
 
-Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistemas (SENAC / Embarque Digital) e Administração de Empresas (UFRPE). Trabalho na intersecção entre o desenvolvimento de software tradicional, engenharia de dados e soluções corporativas eficientes.
+Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistemas (SENAC / Embarque Digital) e Administração de Empresas (UFRPE). Atuo na construção de aplicações web funcionais e pipelines de dados estruturados para otimização de processos e tomada de decisão.
 
 ---
 
@@ -17,9 +17,9 @@ Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistem
 
 ### 💻 Stack Tecnológico & Atuação
 
-* **Full-Stack Development:** Construção de aplicações web robustas e escaláveis utilizando o ecossistema JavaScript/TypeScript, com foco em **React**, **Next.js** e **Node.js**.
-* **Engenharia de Dados & BI:** Modelagem de bancos de dados (PostgreSQL, MongoDB), criação de consultas avançadas em SQL e estruturação de pipelines de dados (arquitetura medalhão) utilizando **Python** e **Azure Databricks**.
-* **Automação e Ecossistema Microsoft:** Desenvolvimento de soluções ágeis integrando **Power Platform** (Power Apps, Power Automate, Power BI, Dataverse) e lógica em **Power Fx** para otimização de processos e ingestão de dados em arquiteturas modernas.
+* **Full-Stack Development:** Desenvolvimento de aplicações ponta a ponta utilizando o ecossistema JavaScript/TypeScript, com foco em **React**, **Next.js** e **Node.js**.
+* **Engenharia de Dados & BI:** Modelagem de bancos de dados relacionais e não-relacionais, escrita de consultas SQL avançadas e estruturação de pipelines (arquitetura medalhão) com **Python**, **Azure Databricks** e **Power BI**.
+* **Automação e Processos:** Criação de soluções ágeis integrando **Power Platform** (Power Apps, Power Automate, Dataverse) com lógica em **Power Fx** para fluxos internos e ingestão de dados.
 
 ---
 
@@ -43,26 +43,20 @@ Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistem
 
 ### 🚀 Projetos em Destaque
 
-* **Projeto Valora:** Sistema de gestão de Atividades Complementares para o Senac PE. Atuei no Front-end com React, JavaScript e Tailwind CSS, implementando fluxos de autenticação e telas de CRUD.
-* **KPMG SkillStore:** Plataforma de cursos onde dados inseridos via Power Apps eram armazenados no Dataverse, integrados via Power Automate até o Azure Databricks (pipeline medalhão via SQL) e consumidos no Power BI.
+* **Projeto Valora (Senac PE):** Sistema de gestão de Atividades Complementares. Atuei como Desenvolvedor Front-end, construindo a interface com React, JavaScript e Tailwind CSS, além de implementar rotas, fluxos de autenticação, telas de CRUD e validações de submissões.
+* **KPMG SkillStore (Bootcamp Porto Digital):** Plataforma de cursos integrada. Estruturei um fluxo onde os dados inseridos via Power Apps eram armazenados no Dataverse, automatizados via Power Automate até o Azure Databricks (pipeline medalhão via SQL) e consumidos em dashboards no Power BI para análise de KPIs.
 
 ---
 
----
----
-
-### 📊 Estatísticas em Tempo Real
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ygorsampaio&theme=dracula&hide_border=true" alt="Streak do GitHub" />
-</p>
-
+#### 📅 Histórico de Contribuições (Commits)
 <p align="center">
   <img src="https://ghchart.rshah.org/2b2b42/ygorsampaio" alt="Gráfico de Contribuições do Ygor" width="100%" />
 </p>
+
 ---
 
-### 📜 Certificações
-* 🐍 Python & 🟢 Node.js — *Rocketseat*
-* 🤖 Engenharia de Prompt — *Rocketseat*
-* 🛡️ Engenharia de QA — *CESAR School*
+### 📜 Certificações & Formação
+* 🎓 **Graduações:** ADS (SENAC, até 2027) | Administração (UFRPE, até 2029)
+* 🐍 **Python & Node.js** — *Rocketseat*
+* 🤖 **Engenharia de Prompt** — *Rocketseat*
+* 🛡️ **Engenharia de QA** — *CESAR School*
