@@ -55,8 +55,3 @@ Atuo como **Desenvolvedor Full-Stack Freelancer**, focado na criação de sistem
 * **Técnico em Multimídia** 🏛️ *ETE Ginásio Pernambucano* • 02/2022 — 12/2024
   
 ---
-
-#### 📅 Histórico de Contribuições (Commits)
-<p align="center">
-  <img src="https://ghchart.rshah.org/2b2b42/ygorsampaio" alt="Gráfico de Contribuições do Ygor" width="100%" />
-</p>
