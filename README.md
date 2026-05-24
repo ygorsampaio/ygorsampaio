@@ -1,64 +1,72 @@
 # Olá, eu sou o Ygor Sampaio! 👋
 
-Sou desenvolvedor Full-Stack e estudante de Análise e Desenvolvimento de Sistemas (SENAC/Embarque Digital) e Administração (UFRPE). Unindo tecnologia, dados e negócios, foco na criação de interfaces funcionais, automação de processos e soluções voltadas para a tomada de decisão.
+Sou desenvolvedor Full-Stack e graduando em Análise e Desenvolvimento de Sistemas (SENAC / Embarque Digital) e Administração de Empresas (UFRPE). Meu foco é construir a ponte entre a tecnologia, a engenharia de dados e as regras de negócio, criando interfaces funcionais e automações inteligentes.
 
 ---
 
-### 🛠️ Sobre mim:
-- 💼 Atualmente atuando como **Desenvolvedor Full-Stack Freelancer**.
-- 🚀 Experiência no desenvolvimento de sistemas web ponta a ponta e engenharia de dados/BI.
-- 📍 Baseado em **Recife, PE**.
-- 📫 Como me encontrar: **ygorsampaio.edu@gmail.com**
+### 🌐 Contato e Conexões
 
-### 🔗 Conecte-se comigo:
-<p align="left">
-  <a href="https://linkedin.com/in/ygorsampaio-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+Seja para projetos freelancers, oportunidades profissionais ou troca de conhecimento, sinta-se à vontade para entrar em contato:
+
+| Canal | Link / Informação |
+| :--- | :--- |
+| 📧 **E-mail** | `ygorsampaio.edu@gmail.com` |
+| 📱 **WhatsApp** | `(81) 99715-3027` |
+| 💼 **LinkedIn** | [linkedin.com/in/ygorsampaio-dev](https://linkedin.com/in/ygorsampaio-dev) |
+| 📍 **Localização** | Recife, PE - Brasil |
 
 ---
 
-### 💻 Tecnologias e Ferramentas:
+### ⚡ Power Platform, Power Fx & Automação
+
+Além do ecossistema tradicional de desenvolvimento, possuo forte atuação em **Low-Code Avançado** e **Engenharia de Dados**. Desenvolvo soluções completas utilizando:
+* **Power Apps & Power Fx:** Criação de aplicativos corporativos robustos orientados a dados, aplicando lógica declarativa forte (Power Fx) para manipular e validar coleções complexas no **Dataverse**.
+* **Power Automate:** Construção de fluxos de integração automatizados e ETLs eficientes que conectam aplicações de ponta a ponta.
+* **Modern Data Stack:** Integração desses ecossistemas com ferramentas robustas como **Azure Databricks** (arquitetura medalhão via SQL/Python) e **Power BI** para geração de valor e tomada de decisão estratégica.
+
+---
+
+### 💻 Stack Tecnológico
 
 #### Desenvolvimento Full-Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,tailwind" alt="Full Stack Stack" />
   </a>
 </p>
 
-#### Dados e Bancos de Dados
+#### Dados & Infraestrutura
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,supabase,azure" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,supabase,azure" alt="Data Stack" />
   </a>
 </p>
-<p align="left"><em>Também atuo com: Azure Databricks, SQL, NoSQL, ETL, Pandas e NumPy.</em></p>
+<p align="left"><em>Azure Databricks • SQL Avançado • NoSQL • Pandas • NumPy</em></p>
 
 #### BI, Automação e Design
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode,figma" alt="Tools" />
   </a>
 </p>
-<p align="left"><em>Também atuo com: Power Apps, Power Automate, Dataverse e Excel Avançado.</em></p>
 
 ---
 
-### 🚀 Projetos em Destaque:
+### 🚀 Projetos em Destaque
 
-* **Projeto Valora:** Sistema de gestão de Atividades Complementares para o Senac PE. Atuei no Front-end construindo a interface com React, JavaScript e Tailwind CSS, implementando fluxos de autenticação e telas de CRUD.
-* **KPMG SkillStore:** Plataforma de cursos onde estruturei um pipeline de dados (arquitetura medalhão via SQL) desde a captura via Power Apps/Dataverse até o Azure Databricks, alimentando dashboards no Power BI.
-* **Projeto Brota:** Estruturação e modelagem de bancos de dados relacionais em PostgreSQL com consultas SQL avançadas e criação de dashboards no Excel para suporte a KPIs estratégicos.
+* **KPMG SkillStore:** Plataforma de cursos onde dados inseridos via Power Apps eram armazenados no Dataverse, automatizados via Power Automate até o Azure Databricks (pipeline medalhão via SQL) e consumidos no Power BI.
+* **Projeto Valora:** Sistema de gestão de Atividades Complementares para o Senac PE. Atuei no Front-end com React, JavaScript e Tailwind CSS, implementando fluxos de autenticação e telas de CRUD.
+* **Projeto Brota:** Modelagem de bancos de dados relacionais em PostgreSQL com consultas SQL avançadas e dashboards no Excel para monitoramento de KPIs.
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub:
+### 📊 Estatísticas em Tempo Real
+
+*Os gráficos abaixo são atualizados dinamicamente pelo GitHub e incluem métricas de projetos públicos e privados.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygorsampaio&show_icons=true&theme=dracula&include_all_commits=true" height="150em" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsampaio&layout=compact&theme=dracula" height="150em" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ygorsampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsampaio&layout=compact&theme=dracula&count_private=true&langs_count=6" height="150em" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
@@ -67,4 +75,7 @@ Sou desenvolvedor Full-Stack e estudante de Análise e Desenvolvimento de Sistem
 
 ---
 
-💡 *Curiosidade técnica: Tenho certificações em Python, Node.js, Engenharia de Prompt (Rocketseat) e Engenharia de QA (CESAR School).*
+### 📜 Certificações
+* 🐍 Python & 🟢 Node.js — *Rocketseat*
+* 🤖 Engenharia de Prompt — *Rocketseat*
+* 🛡️ Engenharia de QA — *CESAR School*
